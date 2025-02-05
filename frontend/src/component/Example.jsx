@@ -6,7 +6,7 @@ const Example = () => {
   const [result,setResult] = useState(0);
 
   //this is check comment - Changes maded by tushar
-  const [name, setName] = useState('Tushar');
+  const [name, setName] = useState(' Tsuhar fhjg');
 
   const expensiveComputation = (num) => {
     console.log("Running expensive computation...");
